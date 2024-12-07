@@ -1,1 +1,1 @@
-Hi, Professor! This is the link for the Github repository:https://github.com/fengyuanshen/DS542_Final
+Hi, Professor! This is the link for the Github repository: https://github.com/fengyuanshen/DS542_Final
