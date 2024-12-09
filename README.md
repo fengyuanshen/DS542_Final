@@ -1,6 +1,6 @@
 # DS542 Final Project: Harnessing Transformers for Fraud Detection
 
-**Author**: Fengyuan Shen
+**Author**: Fengyuan Shen, Jinhu Sun
 
 This repository contains the final project for the DS542 Deep Learning Course. The work focuses on utilizing a Transformer-based model to improve credit card fraud detection, addressing challenges such as severe class imbalance and complex transaction patterns. By leveraging techniques like SMOTE and Focal Loss, the project aims to enhance the minority-class recall (fraud detection) while maintaining robust performance on the majority class.
 
@@ -52,4 +52,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or further information, please contact **[shenfy@bu.edu](mailto:shenfy@bu.edu)**.
+For questions or further information, please contact Fengyuan Shen **[shenfy@bu.edu](mailto:shenfy@bu.edu)**.
